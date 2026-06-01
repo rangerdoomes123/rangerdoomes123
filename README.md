@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rangerdoomes123
+- 👋 Hi, I’m @blogs
 - 👀 I’m interested in linux
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on linux 
